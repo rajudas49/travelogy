@@ -33,7 +33,7 @@ const DestinationSlider = () => {
   itemClass='item'
   >
    <div>
-    <Image src="/images/d1.png" alt='destination' width={200} height={200} className='mx-auto' />
+    <Image src="/images/d1.webp" alt='destination' width={200} height={200} className='mx-auto' />
     <h1 className='destination_h1'>New York</h1>
     <p className='destination_p'>7 Hotels1</p>
    </div>
